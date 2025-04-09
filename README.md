@@ -15,5 +15,5 @@ XCloud menyediakan solusi SaaS inovatif untuk membantu bisnis menyederhanakan op
 - Pembaruan otomatis dan skalabilitas.  
 - Akses dari mana saja.
 
-## Analisis Data Penjualan**
+## Analisis Data Penjualan
 Analisis data penjualan menjadi aspek penting dalam strategi kami, karena membantu kami memahami perilaku pelanggan dan mengidentifikasi tren yang dapat memengaruhi pertumbuhan bisnis. Dengan memanfaatkan data penjualan, kami dapat mengoptimalkan strategi pemasaran, meningkatkan retensi pelanggan, dan merumuskan penawaran yang lebih relevan. Fokus kami pada B2B memungkinkan kami untuk membangun hubungan jangka panjang dengan klien, memberikan dukungan yang lebih baik, dan menciptakan solusi yang disesuaikan dengan kebutuhan spesifik mereka.
